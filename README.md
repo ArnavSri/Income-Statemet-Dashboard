@@ -41,5 +41,6 @@ Trend Analysis Chart: Net income vs revenue growth from FY16–FY22.
 💡 Identifies cost drivers (R&D, Sales, Admin) impacting operating income.
 
 7->🖼️ Dashboard Preview 
+
 https://github.com/ArnavSri/Income-Statemet-Dashboard/blob/main/image.png
 
